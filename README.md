@@ -50,12 +50,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/prog-hussain5/prog-hussain5/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/prog-hussain5/count.svg?"  />
 </div>
